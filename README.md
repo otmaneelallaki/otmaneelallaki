@@ -1,9 +1,6 @@
-### Hi I am  👋
+### Hi I am Otmane  👋
 
-<!--
-**otmaneelallaki/otmaneelallaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+# 💁‍♂️ About me
 
 - 🔭 I’m currently studying in Faculty of Science of Montpellier
 - 🌱 I’m currently learning Machine Learning and Data Analysis 
